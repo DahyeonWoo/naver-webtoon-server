@@ -40,8 +40,8 @@
 ```
 
 ### :bar_chart: ERD 설계
-- AqueryTool Link: URL : 
-- AqueryTool Password : 
+- AqueryTool Link: https://aquerytool.com:443/aquerymain/index/?rurl=9813d053-11e7-4e1c-943f-8a261d7d003f&
+- AqueryTool Password : eenza4
 - 본 ERD 설계는 실제 네이버웹툰과는 무관합니다
 
 <img src="./.images/db.png"/>
@@ -61,3 +61,6 @@
 
 ### :clipboard: Architecture
 <img src="./.images/architecture.png"/>
+
+### Git Logs
+<img src="./.images/log.png"/>
