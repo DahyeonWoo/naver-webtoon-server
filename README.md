@@ -47,7 +47,7 @@
 <img src="./.images/db.png"/>
 
 ### :computer: API 개발
-- GoogleDocs Link: [네이버웹툰 API 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjSm1X1y8Q_dGFhfqxBcc7TeQLMFQ6HuHBArZPb8mXu_uqp-V_I0JeO107SEfnw/pubhtml)
+- API List Link : https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjSm1X1y8Q_dGFhfqxBcc7TeQLMFQ6HuHBArZPb8mXu_uqp-V_I0JeO107SEfnw/pubhtml
 
 
 ### :exclamation: Role
@@ -62,5 +62,5 @@
 ### :clipboard: Architecture
 <img src="./.images/architecture.png"/>
 
-### Git Logs
+### :note: Git Logs
 <img src="./.images/log.png"/>
