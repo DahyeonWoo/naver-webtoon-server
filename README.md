@@ -43,12 +43,10 @@
 - AqueryTool Link: https://aquerytool.com:443/aquerymain/index/?rurl=9813d053-11e7-4e1c-943f-8a261d7d003f&
 - AqueryTool Password : eenza4
 - 본 ERD 설계는 실제 네이버웹툰과는 무관합니다
-
 <img src="./.images/db.png"/>
 
 ### :computer: API 개발
 - API List Link : https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjSm1X1y8Q_dGFhfqxBcc7TeQLMFQ6HuHBArZPb8mXu_uqp-V_I0JeO107SEfnw/pubhtml
-
 
 ### :exclamation: Role
 - :page_with_curl: ERD 설계
