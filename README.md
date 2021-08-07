@@ -8,9 +8,7 @@
  ├── 📄database.js
  ├── 📄email.js
  ├── 📄express.js
- ├── 📄googleMap.js
  ├── 📄jwtMiddleware.js
- ├── 📄resEmail.js
  ├── 📄response.js
  ├── 📄secret.js
  ├── 📄winston.js
