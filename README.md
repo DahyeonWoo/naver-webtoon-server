@@ -62,5 +62,5 @@
 ### :clipboard: Architecture
 <img src="./.images/architecture.png"/>
 
-### :note: Git Logs
+### :memo: Git Logs
 <img src="./.images/log.png"/>
